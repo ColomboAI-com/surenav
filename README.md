@@ -6,8 +6,6 @@
 
 **SureNav** is a fully open-source web navigation and scraping toolkit for AI agents that requires **zero API keys**. It provides anti-detection browser automation, intelligent proxy rotation, and web unblocking capabilities—completely free.
 
-> 🚀 **Drop-in replacement for paid services** like Massive's ClawPod, but open source and free forever.
-
 ## ✨ Features
 
 - 🔓 **No API Keys Required** - Uses free proxy aggregation and local browser automation
