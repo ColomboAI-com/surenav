@@ -65,7 +65,7 @@ print(result["content"])
 ## 🏗️ Architecture
 
 ```mermaid
-graph LR
+graph TD
     A[Client Request] --> B[FastAPI Server]
     B --> C[Proxy Manager]
     C --> D[Free Proxy Lists]
@@ -73,7 +73,6 @@ graph LR
     E --> F[Playwright + Stealth]
     F --> G[Target Website]
     G --> H[Clean Content]
-    H --> A
 ```
 
 ## ⚙️ Configuration
