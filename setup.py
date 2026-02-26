@@ -11,7 +11,7 @@ setup(
     description="Open-source web unblocker for AI agents",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/YOUR_USERNAME/surenav",
+    url="https://github.com/ColomboAI-com/surenav",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     classifiers=[

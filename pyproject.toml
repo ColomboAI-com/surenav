@@ -15,10 +15,10 @@ authors = [
 keywords = ["web scraping", "browser automation", "ai agents", "anti-detection", "proxies"]
 
 [project.urls]
-Homepage = "https://github.com/YOUR_USERNAME/surenav"
-Documentation = "https://github.com/YOUR_USERNAME/surenav#readme"
-Repository = "https://github.com/YOUR_USERNAME/surenav.git"
-Issues = "https://github.com/YOUR_USERNAME/surenav/issues"
+Homepage = "https://github.com/ColomboAI-com/surenav"
+Documentation = "https://github.com/ColomboAI-com/surenav#readme"
+Repository = "https://github.com/ColomboAI-com/surenav.git"
+Issues = "https://github.com/ColomboAI-com/surenav/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]
