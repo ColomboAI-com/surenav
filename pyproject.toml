@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "surenav"
+version = "1.0.0"
+description = "Open-source web unblocker for AI agents"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.9"
+authors = [
+    {name = "Your Name", email = "your.email@example.com"}
+]
+keywords = ["web scraping", "browser automation", "ai agents", "anti-detection", "proxies"]
+
+[project.urls]
+Homepage = "https://github.com/ColomboAI-com/surenav"
+Documentation = "https://github.com/ColomboAI-com/surenav#readme"
+Repository = "https://github.com/ColomboAI-com/surenav.git"
+Issues = "https://github.com/ColomboAI-com/surenav/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]
