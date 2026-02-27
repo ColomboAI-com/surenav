@@ -21,7 +21,7 @@
 ### Docker (Easiest)
 
 ```bash
-docker run -p 8000:8000 ghcr.io/colomboai-com/surenav:latest
+docker run -p 8000:8000 ghcr.io/YOUR_USERNAME/surenav:latest
 ```
 
 ### Local Installation
