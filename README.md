@@ -7,8 +7,6 @@
 
 **SureNav** is a fully open-source web navigation and scraping toolkit for AI agents that requires **zero API keys**. It provides anti-detection browser automation, intelligent proxy rotation, and web unblocking capabilities—completely free.
 
-> 🚀 **Drop-in replacement for paid services** like Massive's ClawPod, but open source and free forever.
-
 ## 🧭 Part of the Cairo Operational Intelligence Ecosystem
 
 SureNav is one protocol in the larger **Cairo Operational Intelligence ecosystem** by ColomboAI — our suite of open-source tools for autonomous AI operations.
